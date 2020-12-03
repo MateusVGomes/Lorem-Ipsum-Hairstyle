@@ -1,0 +1,88 @@
+
+.jumbotron{
+ background: url("Morning Wood.jpg");
+   background-position: center center;
+   background-image:no-repeat;	
+   background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+  -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+  min-height: 1080px;
+background-blend-mode: soft-light;
+ color:#F0E68C;
+    font-family: 'Sansita Swashed', cursive;
+    
+ }
+
+
+h1{
+	font-size:100px;
+   font-family: 'Sansita Swashed', cursive;  
+     color:#F0E68C;
+
+}
+p{
+padding-left:10%;
+    
+}
+.lead{
+font-size:24px;
+}
+.display-4{
+padding-top: 35%;
+padding-left:9%;
+font-size:76px;
+
+
+}
+html{
+scroll-behavior: smooth;
+
+}
+.texto{
+padding-left:20px;
+padding-right:20px;
+
+}
+.btn{
+
+background-color:#FFFACD;
+
+}
+.fod{
+padding-left:48%;
+
+}
+
+.caceta{
+padding-top:5%;
+padding-bottom:5%;
+
+}
+hr{
+width:900px;
+border-top:1px solid #f8f8f8;
+border-bottom:1px solid #F0E68C;
+}
+.titulo{
+
+padding-left:20%;
+
+}
+.player{
+
+padding-right:10%;
+
+}
+.texto{
+
+	
+}
+body{
+    font-size:20px;
+	background-color: gray;
+    color:#FFFACD;  
+}
