@@ -1,6 +1,6 @@
 
 .jumbotron{
- background: url("Morning Wood.jpg");
+ background: url("jumbo.jpg");
    background-position: center center;
    background-image:no-repeat;	
    background-attachment: fixed;
@@ -57,7 +57,7 @@ padding-left:48%;
 
 }
 
-.caceta{
+.preechimento{
 padding-top:5%;
 padding-bottom:5%;
 
